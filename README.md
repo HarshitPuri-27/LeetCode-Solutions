@@ -15,12 +15,14 @@ Problems are solved in Java
 | [0086-partition-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0086-partition-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +30,7 @@ Problems are solved in Java
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +44,7 @@ Problems are solved in Java
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
