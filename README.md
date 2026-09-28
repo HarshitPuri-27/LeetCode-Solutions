@@ -11,6 +11,7 @@ Problems are solved in Java
 | [0021-merge-two-sorted-lists](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
