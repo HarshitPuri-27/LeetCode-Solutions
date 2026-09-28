@@ -14,6 +14,7 @@ Problems are solved in Java
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Problems are solved in Java
 | [0021-merge-two-sorted-lists](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0203-remove-linked-list-elements](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
