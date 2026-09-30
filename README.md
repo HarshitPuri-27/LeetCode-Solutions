@@ -50,6 +50,7 @@ Problems are solved in Java
 | [0225-implement-stack-using-queues](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -107,4 +109,8 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
