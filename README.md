@@ -53,6 +53,7 @@ Problems are solved in Java
 | [0232-implement-queue-using-stacks](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Problems are solved in Java
 | [0020-valid-parentheses](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
