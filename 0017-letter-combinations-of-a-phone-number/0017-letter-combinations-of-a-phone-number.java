@@ -1,41 +1,41 @@
 import java.util.*;
 
 class Solution {
-
     public List<String> letterCombinations(String digits) {
-
         List<String> result = new ArrayList<>();
 
-        if (digits.length() == 0) {
+        if (digits == null || digits.length() == 0) {
             return result;
         }
 
-        String[] keypad = {
-            "", "", "abc", "def", "ghi",
-            "jkl", "mno", "pqrs", "tuv", "wxyz"
+        String[] phone = {
+            "", "", "abc", "def",
+            "ghi", "jkl", "mno",
+            "pqrs", "tuv", "wxyz"
         };
 
-        backtrack(0, digits, "", keypad, result);
+        backtrack(digits, 0, new StringBuilder(), phone, result);
 
         return result;
     }
 
-    private void backtrack(int index, String digits,
-                           String current, String[] keypad,
+    private void backtrack(String digits, int index,
+                           StringBuilder current,
+                           String[] phone,
                            List<String> result) {
-
-        // Combination completed
         if (index == digits.length()) {
-            result.add(current);
+            result.add(current.toString());
             return;
         }
 
-        String letters = keypad[digits.charAt(index) - '0'];
+        String letters = phone[digits.charAt(index) - '0'];
 
-        for (char ch : letters.toCharArray()) {
+        for (int i = 0; i < letters.length(); i++) {
+            current.append(letters.charAt(i));
 
-            backtrack(index + 1, digits,
-                      current + ch, keypad, result);
+            backtrack(digits, index + 1, current, phone, result);
+
+            current.deleteCharAt(current.length() - 1);
         }
     }
 }
