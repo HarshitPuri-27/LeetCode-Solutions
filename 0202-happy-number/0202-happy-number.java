@@ -1,33 +1,18 @@
-import java.util.*;
-
 class Solution {
     public boolean isHappy(int n) {
+        while(n!=1 && n!=4)
+    {
+        int sum=0;
 
-        HashSet<Integer> set = new HashSet<>();
-
-        while (n != 1) {
-
-            if (set.contains(n)) {
-                return false;
-            }
-
-            set.add(n);
-            n = getSum(n);
+        while(n>0)
+        {
+            int r=n%10;
+            sum=sum+r*r;
+            n=n/10;
         }
-
-        return true;
+        n=sum;
+    } 
+    return n==1;
     }
-
-    private int getSum(int n) {
-
-        int sum = 0;
-
-        while (n > 0) {
-            int digit = n % 10;
-            sum += digit * digit;
-            n = n / 10;
-        }
-
-        return sum;
-    }
+    
 }
