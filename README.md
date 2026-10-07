@@ -22,6 +22,7 @@ Problems are solved in Java
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0086-partition-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ Problems are solved in Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -46,6 +48,7 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +74,7 @@ Problems are solved in Java
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
