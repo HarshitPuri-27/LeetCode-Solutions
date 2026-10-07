@@ -35,6 +35,7 @@ Problems are solved in Java
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -80,6 +81,7 @@ Problems are solved in Java
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
