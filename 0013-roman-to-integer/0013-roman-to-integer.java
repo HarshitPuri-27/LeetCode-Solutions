@@ -1,26 +1,11 @@
-import java.util.*;
-
 class Solution {
     public int romanToInt(String s) {
-
-        HashMap<Character, Integer> map = new HashMap<>();
-
-        map.put('I', 1);
-        map.put('V', 5);
-        map.put('X', 10);
-        map.put('L', 50);
-        map.put('C', 100);
-        map.put('D', 500);
-        map.put('M', 1000);
-
         int result = 0;
 
         for (int i = 0; i < s.length(); i++) {
+            int current = value(s.charAt(i));
 
-            int current = map.get(s.charAt(i));
-
-            if (i + 1 < s.length() &&
-                current < map.get(s.charAt(i + 1))) {
+            if (i + 1 < s.length() && current < value(s.charAt(i + 1))) {
                 result -= current;
             } else {
                 result += current;
@@ -28,5 +13,15 @@ class Solution {
         }
 
         return result;
+    }
+
+    public int value(char c) {
+        if (c == 'I') return 1;
+        if (c == 'V') return 5;
+        if (c == 'X') return 10;
+        if (c == 'L') return 50;
+        if (c == 'C') return 100;
+        if (c == 'D') return 500;
+        return 1000;
     }
 }
