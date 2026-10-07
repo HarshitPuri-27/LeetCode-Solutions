@@ -60,12 +60,14 @@ Problems are solved in Java
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +145,8 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
