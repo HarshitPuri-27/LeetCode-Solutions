@@ -2,27 +2,20 @@ import java.util.*;
 
 class RecentCounter {
 
-    Queue<Integer> queue;
+    Queue<Integer> q;
 
     public RecentCounter() {
-        queue = new LinkedList<>();
+        q = new ArrayDeque<>();
     }
 
     public int ping(int t) {
 
-        queue.offer(t);
+        q.offer(t);
 
-        while (queue.peek() < t - 3000) {
-            queue.poll();
+        while (q.peek() < t - 3000) {
+            q.poll();
         }
 
-        return queue.size();
+        return q.size();
     }
 }
-
-
-/**
- * Your RecentCounter object will be instantiated and called as such:
- * RecentCounter obj = new RecentCounter();
- * int param_1 = obj.ping(t);
- */
