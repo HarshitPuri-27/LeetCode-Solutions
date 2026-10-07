@@ -38,6 +38,7 @@ Problems are solved in Java
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
@@ -74,6 +75,7 @@ Problems are solved in Java
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -113,6 +115,7 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
