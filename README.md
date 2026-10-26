@@ -145,6 +145,7 @@ Problems are solved in Java
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ Problems are solved in Java
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +186,12 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
