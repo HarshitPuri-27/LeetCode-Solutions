@@ -14,28 +14,23 @@
  * }
  */
 
-import java.util.*;
-
 class Solution {
+    int res;
+    int count;
     public int kthSmallest(TreeNode root, int k) {
-        Deque<TreeNode> stack = new ArrayDeque<>();
-        TreeNode curr = root;
+        inorder(root, k);
+        return res;
+    }
 
-        while (curr != null || !stack.isEmpty()) {
-            while (curr != null) {
-                stack.push(curr);
-                curr = curr.left;
+    public void inorder(TreeNode root, int k) {
+        if (root != null) {
+            inorder(root.left, k);
+            count++;
+            if (count == k) {
+                res = root.val;
+                return;
             }
-
-            curr = stack.pop();
-
-            if (--k == 0) {
-                return curr.val;
-            }
-
-            curr = curr.right;
+            inorder(root.right, k);
         }
-
-        return -1;
     }
 }
