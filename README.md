@@ -147,6 +147,7 @@ Problems are solved in Java
 | [0112-path-sum](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@ Problems are solved in Java
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ Problems are solved in Java
 | [0112-path-sum](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +204,13 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
