@@ -55,6 +55,7 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -137,10 +138,12 @@ Problems are solved in Java
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -149,6 +152,7 @@ Problems are solved in Java
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
