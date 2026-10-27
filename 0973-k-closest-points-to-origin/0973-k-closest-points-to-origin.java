@@ -1,46 +1,43 @@
-
-import java.util.*;
+import java.util.Arrays;
 
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-        int left = 0, right = points.length - 1;
-
-        while (left <= right) {
-            int pivot = partition(points, left, right);
-
-            if (pivot == k - 1) {
-                break;
-            } else if (pivot < k - 1) {
-                left = pivot + 1;
-            } else {
-                right = pivot - 1;
-            }
-        }
-
+        // QuickSelect rearranges the array in-place so the K closest are at the front
+        quickSelect(points, 0, points.length - 1, k);
         return Arrays.copyOf(points, k);
     }
 
-    private int partition(int[][] points, int left, int right) {
-        int[] pivotPoint = points[right];
-        long pivot = distance(pivotPoint);
-        int i = left;
+    private void quickSelect(int[][] points, int left, int right, int k) {
+        if (left >= right) return;
 
-        for (int j = left; j < right; j++) {
-            if (distance(points[j]) <= pivot) {
+        // 1. Pick the middle element as our pivot value
+        int pivotDist = getDist(points[left + (right - left) / 2]);
+        int i = left, j = right;
+
+        // 2. Push smaller distances to the left, larger distances to the right
+        while (i <= j) {
+            while (getDist(points[i]) < pivotDist) i++;
+            while (getDist(points[j]) > pivotDist) j--;
+            
+            if (i <= j) {
                 int[] temp = points[i];
-                points[i++] = points[j];
+                points[i] = points[j];
                 points[j] = temp;
+                i++;
+                j--;
             }
         }
 
-        points[right] = points[i];
-        points[i] = pivotPoint;
-
-        return i;
+        // 3. Decide which half needs further processing based on index 'k'
+        if (k <= j) {
+            quickSelect(points, left, j, k); // Look in the left part
+        } else if (k >= i) {
+            quickSelect(points, i, right, k); // Look in the right part
+        }
     }
 
-    private long distance(int[] point) {
-        return (long) point[0] * point[0]
-             + (long) point[1] * point[1];
+    // Simple math helper to compute squared distance (x^2 + y^2)
+    private int getDist(int[] point) {
+        return (point[0] * point[0]) + (point[1] * point[1]);
     }
 }
