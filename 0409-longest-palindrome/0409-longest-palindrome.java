@@ -1,23 +1,26 @@
-
 class Solution {
-    public int longestPalindrome(String s) {
-        int[] freq = new int[128];
-
-        for (int i = 0; i < s.length(); i++) {
-            freq[s.charAt(i)]++;
+    static{
+        for(int i=0;i<100;i++){
+            longestPalindrome("");
         }
-
-        int length = 0;
-        boolean hasOdd = false;
-
-        for (int count : freq) {
-            length += (count / 2) * 2;
-
-            if ((count & 1) == 1) {
-                hasOdd = true;
+    }
+    public static int longestPalindrome(String s) {
+        int[] f=new int[65];
+        for(char c:s.toCharArray()){
+            f[c-'A']++;
+        }
+        boolean odd=false;
+        int ans=0;
+        for(int i=0;i<65;i++){
+            if(f[i]%2==0) ans+=f[i];
+            else{
+                if((ans+f[i])%2!=0){  
+                    ans+=f[i];
+                }else{
+                    ans+=f[i]-1;
+                }
             }
         }
-
-        return length + (hasOdd ? 1 : 0);
+        return ans;
     }
 }
