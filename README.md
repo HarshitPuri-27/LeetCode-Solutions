@@ -151,6 +151,7 @@ Problems are solved in Java
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ Problems are solved in Java
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@ Problems are solved in Java
 | [0112-path-sum](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +194,7 @@ Problems are solved in Java
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
