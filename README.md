@@ -44,6 +44,7 @@ Problems are solved in Java
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -80,6 +81,7 @@ Problems are solved in Java
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
@@ -96,6 +98,7 @@ Problems are solved in Java
 | [0001-two-sum](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -113,6 +116,7 @@ Problems are solved in Java
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Counting
@@ -223,10 +227,12 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0268-missing-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0268-missing-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
