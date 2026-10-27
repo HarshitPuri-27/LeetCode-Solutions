@@ -14,28 +14,21 @@
  * }
  */
 
-import java.util.*;
-
 class Solution {
+    int ans;
+    int maxLevel=-1;
+
+    public void bottom(TreeNode root,int  level){
+        if(root==null) return;
+        if(level>maxLevel){
+            maxLevel=level;
+            ans=root.val;
+        } 
+        bottom(root.left,level+1);
+        bottom(root.right,level+1);
+    }
     public int findBottomLeftValue(TreeNode root) {
-        Queue<TreeNode> queue = new ArrayDeque<>();
-        queue.offer(root);
-
-        int result = root.val;
-
-        while (!queue.isEmpty()) {
-            TreeNode node = queue.poll();
-            result = node.val;
-
-            if (node.right != null) {
-                queue.offer(node.right);
-            }
-
-            if (node.left != null) {
-                queue.offer(node.left);
-            }
-        }
-
-        return result;
+        bottom(root,0);
+        return ans;
     }
 }
