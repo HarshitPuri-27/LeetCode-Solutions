@@ -157,6 +157,7 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -174,6 +175,7 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -200,6 +202,7 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -238,6 +241,7 @@ Problems are solved in Java
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Lifting
