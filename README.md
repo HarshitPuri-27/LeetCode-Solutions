@@ -80,6 +80,7 @@ Problems are solved in Java
 | [0013-roman-to-integer](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,15 +96,18 @@ Problems are solved in Java
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +234,20 @@ Problems are solved in Java
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
