@@ -94,6 +94,7 @@ Problems are solved in Java
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -101,11 +102,13 @@ Problems are solved in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Counting
@@ -241,10 +244,12 @@ Problems are solved in Java
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/HarshitPuri-27/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## K-D Tree
 | Problem Name | Difficulty |
